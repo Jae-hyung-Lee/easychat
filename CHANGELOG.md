@@ -1,3 +1,6 @@
+## 0.0.5
+* Refactor. rewrite the code with new UI/UX.
+
 ## 0.0.4
 * Refactor. rewrite the code with new UI/UX.
 
